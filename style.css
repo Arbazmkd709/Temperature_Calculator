@@ -1,0 +1,30 @@
+#converter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+  }
+  
+  input[type="number"] {
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    margin: 0 10px;
+    text-align: right;
+  }
+  
+  select {
+    width: 120px;
+    height: 30px;
+    font-size: 18px;
+    margin: 0 10px;
+  }
+  
+  button {
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    margin-left: 10px;
+  }
+  
